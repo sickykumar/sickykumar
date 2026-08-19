@@ -72,6 +72,13 @@
     </a>
   </p>
 
+  <!-- REAL GITHUB CONTRIBUTIONS HEATMAP CALENDAR -->
+  <p align="center">
+    <a href="https://github.com/sickykumar" target="_blank">
+      <img src="https://ghchart.rshah.org/00F5FF/sickykumar" alt="Sicky Kumar GitHub Contribution Calendar" width="100%" />
+    </a>
+  </p>
+
   <p align="center">
     <a href="https://github.com/sickykumar" target="_blank">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=sickykumar&theme=tokyo-night&area=true&hide_border=false&border_color=7C3AED&color=00F5FF" alt="GitHub Activity Graph" width="100%" />
