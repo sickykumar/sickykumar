@@ -84,7 +84,7 @@
     <summary><b>🟢 2026 Contribution Matrix (1,001 Contributions · Jan – Aug)</b></summary>
     <br/>
     <a href="https://github.com/sickykumar?tab=overview&from=2026-01-01" target="_blank">
-      <img src="./assets/github-contributions-2026.svg" alt="2026 GitHub Contributions Matrix" width="100%" />
+      <img src="./assets/github-contributions-grid.svg" alt="2026 GitHub Contributions Matrix" width="100%" />
     </a>
   </details>
 
