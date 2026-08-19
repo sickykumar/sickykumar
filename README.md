@@ -9,7 +9,7 @@
 
   <!-- RESPONSIVE ANIMATED TYPING SUBTITLE -->
   <a href="https://www.sickykumar.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=2800&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=AI-POWERED+FULL-STACK+DEVELOPER;Building+SaaS+%C2%B7+AI+%C2%B7+Web+%C2%B7+Mobile+%C2%B7+DevTools;Architecting+Scalable+Systems+%26+Production-Ready+AI" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=45&lines=AI-POWERED+FULL-STACK+DEVELOPER;Building+SaaS+%C2%B7+AI+%C2%B7+Web+%C2%B7+Mobile+%C2%B7+DevTools;Architecting+Scalable+Cloud+Systems+%26+AI+Products" alt="Typing Subtitle" />
   </a>
 
   <p align="center">
