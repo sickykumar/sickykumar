@@ -9,7 +9,7 @@
 
   <!-- RESPONSIVE ANIMATED TYPING SUBTITLE -->
   <a href="https://www.sickykumar.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=45&lines=AI-POWERED+FULL-STACK+DEVELOPER;Building+SaaS+%C2%B7+AI+%C2%B7+Web+%C2%B7+Mobile+%C2%B7+DevTools;Architecting+Scalable+Cloud+Systems+%26+AI+Products" alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&height=45&lines=AI-POWERED+FULL-STACK+DEVELOPER;Building+SaaS+%C2%B7+AI+%C2%B7+Web+%C2%B7+Mobile;Architecting+Scalable+Cloud+Systems+%26+AI" alt="Typing Subtitle" width="100%" style="max-width: 500px;" />
   </a>
 
   <p align="center">
@@ -101,6 +101,8 @@
 
   <br/>
 
+  <br/>
+
   <!-- 2024 MATRIX (COLLAPSED / SWITCHABLE FULL YEAR) -->
   <details id="-2024-contributions">
     <summary><b>🟢 2024 Contribution Matrix (1,215 Contributions · Full Year)</b></summary>
@@ -111,6 +113,23 @@
   </details>
 
   <br/>
+
+  <!-- REAL-TIME GITHUB STATS & STREAK (THEMED & MOBILE RESPONSIVE) -->
+  <p align="center">
+    <a href="https://github.com/sickykumar">
+      <img src="https://github-readme-stats.vercel.app/api?username=sickykumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7C3AED&text_color=E6EDF3" alt="Sicky Kumar's GitHub Stats" width="95%" style="max-width: 440px;" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/sickykumar">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sickykumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" alt="Sicky Kumar's GitHub Streak" width="95%" style="max-width: 440px;" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/sickykumar">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sickykumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3" alt="Top Languages" width="95%" style="max-width: 380px;" />
+    </a>
+  </p>
 
   <p><sub><i>"Every commit is another step toward engineering a better digital product."</i></sub></p>
 
