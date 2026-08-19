@@ -52,6 +52,38 @@
 
 ---
 
+# 📊 Building in Public & Contribution Activity
+
+<div align="center">
+
+  <!-- GITHUB REAL-TIME ACTIVITY & METRICS -->
+  <p align="center">
+    <a href="https://github.com/sickykumar?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-38_BUILDS-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Repos" />
+    </a>
+    <a href="https://github.com/sickykumar?tab=followers" target="_blank">
+      <img src="https://img.shields.io/github/followers/sickykumar?label=FOLLOWERS&style=for-the-badge&logo=github&color=7C3AED" alt="Followers" />
+    </a>
+    <a href="https://github.com/sickykumar" target="_blank">
+      <img src="https://img.shields.io/badge/DEV_STATUS-ACTIVE_BUILDER-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+    </a>
+    <a href="https://github.com/sickykumar" target="_blank">
+      <img src="https://img.shields.io/badge/ECOSYSTEM-AI_%26_FULL_STACK-EC4899?style=for-the-badge&logo=react&logoColor=white" alt="Ecosystem" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/sickykumar" target="_blank">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sickykumar&theme=tokyo-night&area=true&hide_border=false&border_color=7C3AED&color=00F5FF" alt="GitHub Activity Graph" width="100%" />
+    </a>
+  </p>
+
+  <p><sub><i>"Every commit is another step toward engineering a better digital product."</i></sub></p>
+
+</div>
+
+---
+
 # 🌌 3D Technology Ecosystem
 
 <div align="center">
@@ -423,38 +455,6 @@
     </td>
   </tr>
 </table>
-
----
-
-# 📊 Building in Public & Analytics
-
-<div align="center">
-
-  <!-- GITHUB REAL-TIME ACTIVITY & METRICS -->
-  <p align="center">
-    <a href="https://github.com/sickykumar?tab=repositories" target="_blank">
-      <img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-38_BUILDS-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Repos" />
-    </a>
-    <a href="https://github.com/sickykumar?tab=followers" target="_blank">
-      <img src="https://img.shields.io/github/followers/sickykumar?label=FOLLOWERS&style=for-the-badge&logo=github&color=7C3AED" alt="Followers" />
-    </a>
-    <a href="https://github.com/sickykumar" target="_blank">
-      <img src="https://img.shields.io/badge/DEV_STATUS-ACTIVE_BUILDER-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
-    </a>
-    <a href="https://github.com/sickykumar" target="_blank">
-      <img src="https://img.shields.io/badge/ECOSYSTEM-AI_%26_FULL_STACK-EC4899?style=for-the-badge&logo=react&logoColor=white" alt="Ecosystem" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/sickykumar" target="_blank">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sickykumar&theme=tokyo-night&area=true&hide_border=false&border_color=7C3AED&color=00F5FF" alt="GitHub Activity Graph" width="100%" />
-    </a>
-  </p>
-
-  <p><sub><i>"Every commit is another step toward engineering a better digital product."</i></sub></p>
-
-</div>
 
 ---
 
