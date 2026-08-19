@@ -1,4 +1,3 @@
-# Hi 👋, I'm Sicky Kumar (@sickykumar)
 <div align="center">
 
   <!-- HERO 3D BANNER -->
@@ -580,16 +579,6 @@
   <sub>
     Built with React, Node.js, AI & curiosity · © 2026 <b>Sicky Kumar</b>. All rights reserved.
   </sub>
-
-
-  ### 📬 Connect with Sicky Kumar:
-- 🌐 **Portfolio**: [sickykumar.in](https://www.sickykumar.in)
-- 💼 **LinkedIn**: [linkedin.com/in/sickykumar](https://www.linkedin.com/in/sickykumar)
-- 🐙 **GitHub**: [github.com/sickykumar](https://github.com/sickykumar)
-- 📘 **Facebook**: [facebook.com/sicky9304s](https://facebook.com/sicky9304s)
-- 📸 **Instagram**: [instagram.com/sicky9304s](https://instagram.com/sicky9304s/)
-- 📧 **Email**: [sickykumar01@gmail.com](mailto:sickykumar01@gmail.com)
-
 </div>
 
 
