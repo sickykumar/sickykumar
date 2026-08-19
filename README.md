@@ -430,22 +430,28 @@
 
 <div align="center">
 
-  <!-- GITHUB STATS CARDS (STACKED & FULLY RESPONSIVE) -->
+  <!-- GITHUB REAL-TIME ACTIVITY & METRICS -->
   <p align="center">
-    <a href="https://github.com/sickykumar">
-      <img src="https://github-readme-stats.vercel.app/api?username=sickykumar&show_icons=true&theme=tokyonight&hide_border=false&border_color=7C3AED&title_color=00F5FF&icon_color=EC4899&text_color=E2E8F0&bg_color=0D1117" alt="Sicky Kumar GitHub Stats" />
+    <a href="https://github.com/sickykumar" target="_blank">
+      <img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-38_PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Repos" />
+    </a>
+    <a href="https://github.com/sickykumar?tab=followers" target="_blank">
+      <img src="https://img.shields.io/github/followers/sickykumar?label=FOLLOWERS&style=for-the-badge&logo=github&color=7C3AED" alt="Followers" />
+    </a>
+    <a href="https://github.com/sickykumar" target="_blank">
+      <img src="https://img.shields.io/badge/ACTIVITY-ACTIVE_ENGINEER-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
     </a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/sickykumar">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sickykumar&theme=tokyonight&hide_border=false&border=7C3AED&stroke=00F5FF&ring=EC4899&fire=EC4899&currStreakNum=00F5FF&sideNums=E2E8F0&currStreakLabel=7C3AED&background=0D1117" alt="GitHub Streak" />
+    <a href="https://github.com/sickykumar" target="_blank">
+      <img src="https://streak-stats.demolab.com/?user=sickykumar&theme=tokyonight&hide_border=false&border=7C3AED&stroke=00F5FF&ring=EC4899&fire=EC4899&currStreakNum=00F5FF&sideNums=E2E8F0&currStreakLabel=7C3AED&background=0D1117" alt="GitHub Streak" width="100%" />
     </a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/sickykumar">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sickykumar&layout=compact&theme=tokyonight&hide_border=false&border_color=7C3AED&title_color=00F5FF&text_color=E2E8F0&bg_color=0D1117" alt="Top Languages" />
+    <a href="https://github.com/sickykumar" target="_blank">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sickykumar&theme=tokyo-night&area=true&hide_border=false&border_color=7C3AED&color=00F5FF" alt="GitHub Activity Graph" width="100%" />
     </a>
   </p>
 
