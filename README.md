@@ -432,20 +432,17 @@
 
   <!-- GITHUB REAL-TIME ACTIVITY & METRICS -->
   <p align="center">
-    <a href="https://github.com/sickykumar" target="_blank">
-      <img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-38_PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Repos" />
+    <a href="https://github.com/sickykumar?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-38_BUILDS-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Repos" />
     </a>
     <a href="https://github.com/sickykumar?tab=followers" target="_blank">
       <img src="https://img.shields.io/github/followers/sickykumar?label=FOLLOWERS&style=for-the-badge&logo=github&color=7C3AED" alt="Followers" />
     </a>
     <a href="https://github.com/sickykumar" target="_blank">
-      <img src="https://img.shields.io/badge/ACTIVITY-ACTIVE_ENGINEER-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+      <img src="https://img.shields.io/badge/DEV_STATUS-ACTIVE_BUILDER-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
     </a>
-  </p>
-
-  <p align="center">
     <a href="https://github.com/sickykumar" target="_blank">
-      <img src="https://streak-stats.demolab.com/?user=sickykumar&theme=tokyonight&hide_border=false&border=7C3AED&stroke=00F5FF&ring=EC4899&fire=EC4899&currStreakNum=00F5FF&sideNums=E2E8F0&currStreakLabel=7C3AED&background=0D1117" alt="GitHub Streak" width="100%" />
+      <img src="https://img.shields.io/badge/ECOSYSTEM-AI_%26_FULL_STACK-EC4899?style=for-the-badge&logo=react&logoColor=white" alt="Ecosystem" />
     </a>
   </p>
 
