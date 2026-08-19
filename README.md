@@ -7,6 +7,9 @@
 
 <br/><br/>
 
+  <!-- GOOGLE SEO & BRAND HEADING -->
+  <h1 align="center">Hi 👋, I'm <a href="https://www.sickykumar.in">Sicky Kumar</a></h1>
+
   <!-- RESPONSIVE ANIMATED TYPING SUBTITLE -->
   <a href="https://www.sickykumar.in">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&height=45&lines=AI-POWERED+FULL-STACK+DEVELOPER;Building+SaaS+%C2%B7+AI+%C2%B7+Web+%C2%B7+Mobile;Architecting+Scalable+Cloud+Systems+%26+AI" alt="Typing Subtitle" width="100%" style="max-width: 500px;" />
@@ -14,11 +17,14 @@
 
   <p align="center">
     <b>Building the future, one scalable digital product at a time.</b><br/>
-    <sub>Specialized in modern full-stack engineering, production AI systems, scalable frontends, and cloud infrastructure.</sub>
+    <sub><b>Sicky Kumar</b> (@sickykumar) — Specialized in full-stack SaaS engineering, production AI systems, scalable frontends, and cloud infrastructure.</sub>
   </p>
 
-  <!-- INTERACTIVE SAAS CTA PILLS -->
+  <!-- INTERACTIVE SOCIAL & FOLLOWER CTA PILLS -->
   <p align="center">
+    <a href="https://github.com/sickykumar" target="_blank">
+      <img src="https://img.shields.io/github/followers/sickykumar?label=Follow%20%40sickykumar&style=for-the-badge&logo=github&color=181717&logoColor=white" alt="Follow Sicky Kumar on GitHub" />
+    </a>
     <a href="https://www.sickykumar.in" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Portfolio-sickykumar.in-7C3AED?style=for-the-badge&logoColor=white" alt="Portfolio" />
     </a>
@@ -527,6 +533,17 @@
 
   <h3>Developer · Builder · Problem Solver</h3>
   <p><b>Full-Stack · AI-Powered · Product-Focused</b></p>
+
+  <br/>
+
+  <p>
+    <a href="https://github.com/sickykumar" target="_blank">
+      <img src="https://img.shields.io/badge/🤝_Follow_Me_On_GitHub-sickykumar-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+    </a>
+    <a href="https://github.com/sickykumar?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/⭐_Star_My_Projects-38_Repos-F59E0B?style=for-the-badge&logo=apachespark&logoColor=white" alt="Star Repos" />
+    </a>
+  </p>
 
 </div>
 
