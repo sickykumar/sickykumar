@@ -72,10 +72,10 @@
     </a>
   </p>
 
-  <!-- REAL GITHUB CONTRIBUTIONS HEATMAP CALENDAR -->
+  <!-- 1:1 PIXEL-PERFECT GITHUB NATIVE CONTRIBUTION MATRIX CLONE -->
   <p align="center">
-    <a href="https://github.com/sickykumar" target="_blank">
-      <img src="https://ghchart.rshah.org/00F5FF/sickykumar" alt="Sicky Kumar GitHub Contribution Calendar" width="100%" />
+    <a href="https://github.com/sickykumar?tab=overview&from=2026-01-01" target="_blank">
+      <img src="./assets/github-contributions-grid.svg" alt="Sicky Kumar GitHub Contributions Matrix" width="100%" />
     </a>
   </p>
 
