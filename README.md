@@ -14,7 +14,7 @@
 
   <p align="center">
     <b>Building the future, one scalable digital product at a time.</b><br/>
-    <sub>Specialized in modern JavaScript ecosystems, production AI systems, reactive frontends, and cloud infrastructure.</sub>
+    <sub>Specialized in modern full-stack engineering, production AI systems, scalable frontends, and cloud infrastructure.</sub>
   </p>
 
   <!-- INTERACTIVE SAAS CTA PILLS -->
@@ -113,23 +113,6 @@
   </details>
 
   <br/>
-
-  <!-- REAL-TIME GITHUB STATS & STREAK (THEMED & MOBILE RESPONSIVE) -->
-  <p align="center">
-    <a href="https://github.com/sickykumar">
-      <img src="https://github-readme-stats.vercel.app/api?username=sickykumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=7C3AED&text_color=E6EDF3" alt="Sicky Kumar's GitHub Stats" width="95%" style="max-width: 440px;" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/sickykumar">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sickykumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=7C3AED&currStreakLabel=00F5FF" alt="Sicky Kumar's GitHub Streak" width="95%" style="max-width: 440px;" />
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://github.com/sickykumar">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sickykumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3" alt="Top Languages" width="95%" style="max-width: 380px;" />
-    </a>
-  </p>
 
   <p><sub><i>"Every commit is another step toward engineering a better digital product."</i></sub></p>
 
@@ -543,7 +526,7 @@
   </p>
 
   <h3>Developer · Builder · Problem Solver</h3>
-  <p><b>JavaScript-First · AI-Powered · Product-Focused</b></p>
+  <p><b>Full-Stack · AI-Powered · Product-Focused</b></p>
 
 </div>
 
