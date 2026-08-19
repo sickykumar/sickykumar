@@ -72,12 +72,43 @@
     </a>
   </p>
 
-  <!-- 1:1 PIXEL-PERFECT GITHUB NATIVE CONTRIBUTION MATRIX CLONE -->
+  <!-- INTERACTIVE YEAR SELECTOR PILLS -->
   <p align="center">
-    <a href="https://github.com/sickykumar?tab=overview&from=2026-01-01" target="_blank">
-      <img src="./assets/github-contributions-grid.svg" alt="Sicky Kumar GitHub Contributions Matrix" width="100%" />
-    </a>
+    <a href="#-2026-contributions"><img src="https://img.shields.io/badge/🗓️_2026_(Jan--Aug)-1F6FEB?style=for-the-badge&logoColor=white" alt="2026" /></a>
+    <a href="#-2025-contributions"><img src="https://img.shields.io/badge/🗓️_2025_(Full_Year)-238636?style=for-the-badge&logoColor=white" alt="2025" /></a>
+    <a href="#-2024-contributions"><img src="https://img.shields.io/badge/🗓️_2024_(Full_Year)-8957E5?style=for-the-badge&logoColor=white" alt="2024" /></a>
   </p>
+
+  <!-- 2026 MATRIX (OPEN BY DEFAULT: JAN TO AUG) -->
+  <details open id="-2026-contributions">
+    <summary><b>🟢 2026 Contribution Matrix (1,001 Contributions · Jan – Aug)</b></summary>
+    <br/>
+    <a href="https://github.com/sickykumar?tab=overview&from=2026-01-01" target="_blank">
+      <img src="./assets/github-contributions-2026.svg" alt="2026 GitHub Contributions Matrix" width="100%" />
+    </a>
+  </details>
+
+  <br/>
+
+  <!-- 2025 MATRIX (COLLAPSED / SWITCHABLE FULL YEAR) -->
+  <details id="-2025-contributions">
+    <summary><b>🟢 2025 Contribution Matrix (1,482 Contributions · Full Year)</b></summary>
+    <br/>
+    <a href="https://github.com/sickykumar?tab=overview&from=2025-01-01" target="_blank">
+      <img src="./assets/github-contributions-2025.svg" alt="2025 GitHub Contributions Matrix" width="100%" />
+    </a>
+  </details>
+
+  <br/>
+
+  <!-- 2024 MATRIX (COLLAPSED / SWITCHABLE FULL YEAR) -->
+  <details id="-2024-contributions">
+    <summary><b>🟢 2024 Contribution Matrix (1,215 Contributions · Full Year)</b></summary>
+    <br/>
+    <a href="https://github.com/sickykumar?tab=overview&from=2024-01-01" target="_blank">
+      <img src="./assets/github-contributions-2024.svg" alt="2024 GitHub Contributions Matrix" width="100%" />
+    </a>
+  </details>
 
   <p align="center">
     <a href="https://github.com/sickykumar" target="_blank">
