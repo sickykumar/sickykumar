@@ -2,7 +2,7 @@
 
   <!-- HERO 3D BANNER -->
   <a href="https://www.sickykumar.in">
-    <img src="./assets/hero-banner.jpg" alt="Sicky Kumar — AI-Powered Full-Stack Developer" width="100%" />
+    <img src="./assets/hero-banner.webp" alt="Sicky Kumar — AI-Powered Full-Stack Developer" width="100%" />
   </a>
 
   <br/><br/>
@@ -55,7 +55,7 @@
 # 🌌 3D Technology Ecosystem
 
 <div align="center">
-  <img src="./assets/tech-ecosystem.jpg" alt="Sicky Kumar 3D Tech Ecosystem" width="100%" />
+  <img src="./assets/tech-ecosystem.webp" alt="Sicky Kumar 3D Tech Ecosystem" width="100%" />
   <p><sub><b>Autonomous Node Architecture</b> — Unified multi-stack integration with reactive frontend, robust APIs & AI core</sub></p>
 </div>
 
@@ -129,7 +129,7 @@
 # 🏗️ Full-Stack 3D Architecture Pipeline
 
 <div align="center">
-  <img src="./assets/architecture.jpg" alt="Sicky Kumar Full-Stack Architecture" width="100%" />
+  <img src="./assets/architecture.webp" alt="Sicky Kumar Full-Stack Architecture" width="100%" />
 </div>
 
 <br/>
@@ -354,7 +354,7 @@
 # 🤖 AI × Full-Stack Convergence
 
 <div align="center">
-  <img src="./assets/ai-fullstack.jpg" alt="AI x Full Stack" width="100%" />
+  <img src="./assets/ai-fullstack.webp" alt="AI x Full Stack" width="100%" />
 </div>
 
 <br/>
