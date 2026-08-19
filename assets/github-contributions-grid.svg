@@ -17,7 +17,7 @@
   <!-- Container Box -->
   <rect x="1" y="1" width="858" height="198" class="card-border" />
 
-  <!-- Header with exact requested 1,001 contributions -->
+  <!-- Header -->
   <text x="24" y="32" class="text-title">1,001 contributions in the last year</text>
 
   <!-- Contribution Settings Dropdown -->
@@ -30,18 +30,19 @@
   <text x="778" y="31" class="text-btn year-text">2025</text>
   <text x="818" y="31" class="text-btn year-text">2024</text>
 
-  <text x="44.0" y="58" class="text-sub">Jan</text>
-  <text x="100.8" y="58" class="text-sub">Feb</text>
-  <text x="171.8" y="58" class="text-sub">Mar</text>
-  <text x="228.6" y="58" class="text-sub">Apr</text>
-  <text x="285.4" y="58" class="text-sub">May</text>
-  <text x="356.4" y="58" class="text-sub">Jun</text>
-  <text x="413.2" y="58" class="text-sub">Jul</text>
-  <text x="484.2" y="58" class="text-sub">Aug</text>
-  <text x="541.0" y="58" class="text-sub">Sep</text>
-  <text x="597.8" y="58" class="text-sub">Oct</text>
-  <text x="668.8" y="58" class="text-sub">Nov</text>
-  <text x="725.6" y="58" class="text-sub">Dec</text>
+  <text x="44.0" y="58" class="text-sub">Aug</text>
+  <text x="100.8" y="58" class="text-sub">Sep</text>
+  <text x="171.8" y="58" class="text-sub">Oct</text>
+  <text x="228.6" y="58" class="text-sub">Nov</text>
+  <text x="285.4" y="58" class="text-sub">Dec</text>
+  <text x="342.2" y="58" class="text-sub">Jan</text>
+  <text x="399.0" y="58" class="text-sub">Feb</text>
+  <text x="455.8" y="58" class="text-sub">Mar</text>
+  <text x="526.8" y="58" class="text-sub">Apr</text>
+  <text x="583.6" y="58" class="text-sub">May</text>
+  <text x="640.4" y="58" class="text-sub">Jun</text>
+  <text x="697.2" y="58" class="text-sub">Jul</text>
+  <text x="754.0" y="58" class="text-sub">Aug</text>
   <text x="14" y="89.2" class="text-sub">Mon</text>
   <text x="14" y="117.6" class="text-sub">Wed</text>
   <text x="14" y="146.0" class="text-sub">Fri</text>
@@ -255,46 +256,46 @@
   <rect x="455.8" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="455.8" y="137.0" width="11" height="11" fill="#0e4429" class="cell" />
   <rect x="455.8" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="470.0" y="66.0" width="11" height="11" fill="#39d353" class="cell" />
-  <rect x="470.0" y="80.2" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="470.0" y="94.4" width="11" height="11" fill="#26a641" class="cell" />
+  <rect x="470.0" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="470.0" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="470.0" y="94.4" width="11" height="11" fill="#006d32" class="cell" />
   <rect x="470.0" y="108.6" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="470.0" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="470.0" y="122.8" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="470.0" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="470.0" y="151.2" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="484.2" y="66.0" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="484.2" y="80.2" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="484.2" y="94.4" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="484.2" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="470.0" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="484.2" y="66.0" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="484.2" y="80.2" width="11" height="11" fill="#26a641" class="cell" />
+  <rect x="484.2" y="94.4" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="484.2" y="108.6" width="11" height="11" fill="#0e4429" class="cell" />
   <rect x="484.2" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="484.2" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="484.2" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="498.4" y="66.0" width="11" height="11" fill="#39d353" class="cell" />
-  <rect x="498.4" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="498.4" y="94.4" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="498.4" y="108.6" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="498.4" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="498.4" y="137.0" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="498.4" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="498.4" y="80.2" width="11" height="11" fill="#39d353" class="cell" />
+  <rect x="498.4" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="498.4" y="108.6" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="498.4" y="122.8" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="498.4" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="498.4" y="151.2" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="512.6" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="512.6" y="66.0" width="11" height="11" fill="#0e4429" class="cell" />
   <rect x="512.6" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="512.6" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="512.6" y="108.6" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="512.6" y="122.8" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="512.6" y="137.0" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="512.6" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="512.6" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="512.6" y="122.8" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="512.6" y="137.0" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="512.6" y="151.2" width="11" height="11" fill="#0e4429" class="cell" />
   <rect x="526.8" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="526.8" y="80.2" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="526.8" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="526.8" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="526.8" y="94.4" width="11" height="11" fill="#006d32" class="cell" />
   <rect x="526.8" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="526.8" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="526.8" y="137.0" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="526.8" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="541.0" y="66.0" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="526.8" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="526.8" y="151.2" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="541.0" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="541.0" y="80.2" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="541.0" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="541.0" y="108.6" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="541.0" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="541.0" y="94.4" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="541.0" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="541.0" y="122.8" width="11" height="11" fill="#0e4429" class="cell" />
   <rect x="541.0" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="541.0" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="555.2" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
@@ -303,118 +304,118 @@
   <rect x="555.2" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="555.2" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="555.2" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="555.2" y="151.2" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="569.4" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="555.2" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="569.4" y="66.0" width="11" height="11" fill="#006d32" class="cell" />
   <rect x="569.4" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="569.4" y="94.4" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="569.4" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="569.4" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="569.4" y="108.6" width="11" height="11" fill="#0e4429" class="cell" />
   <rect x="569.4" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="569.4" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="569.4" y="151.2" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="583.6" y="66.0" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="583.6" y="80.2" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="583.6" y="94.4" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="583.6" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="569.4" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="583.6" y="66.0" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="583.6" y="80.2" width="11" height="11" fill="#26a641" class="cell" />
+  <rect x="583.6" y="94.4" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="583.6" y="108.6" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="583.6" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="583.6" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="583.6" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="597.8" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="597.8" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="597.8" y="94.4" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="597.8" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="597.8" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="597.8" y="108.6" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="597.8" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="597.8" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="597.8" y="151.2" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="612.0" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="597.8" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="612.0" y="66.0" width="11" height="11" fill="#0e4429" class="cell" />
   <rect x="612.0" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="612.0" y="94.4" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="612.0" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="612.0" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="612.0" y="108.6" width="11" height="11" fill="#0e4429" class="cell" />
   <rect x="612.0" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="612.0" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="612.0" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="626.2" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="626.2" y="80.2" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="626.2" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="626.2" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="626.2" y="94.4" width="11" height="11" fill="#0e4429" class="cell" />
   <rect x="626.2" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="626.2" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="626.2" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="626.2" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="640.4" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="640.4" y="80.2" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="640.4" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="640.4" y="94.4" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="640.4" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="640.4" y="108.6" width="11" height="11" fill="#006d32" class="cell" />
   <rect x="640.4" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="640.4" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="640.4" y="151.2" width="11" height="11" fill="#26a641" class="cell" />
+  <rect x="640.4" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="654.6" y="66.0" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="654.6" y="80.2" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="654.6" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="654.6" y="94.4" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="654.6" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="654.6" y="122.8" width="11" height="11" fill="#26a641" class="cell" />
+  <rect x="654.6" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="654.6" y="137.0" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="654.6" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="668.8" y="66.0" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="668.8" y="80.2" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="668.8" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="668.8" y="108.6" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="668.8" y="122.8" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="668.8" y="137.0" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="668.8" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="683.0" y="66.0" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="683.0" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="683.0" y="94.4" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="683.0" y="108.6" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="683.0" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="654.6" y="151.2" width="11" height="11" fill="#26a641" class="cell" />
+  <rect x="668.8" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="668.8" y="80.2" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="668.8" y="94.4" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="668.8" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="668.8" y="122.8" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="668.8" y="137.0" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="668.8" y="151.2" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="683.0" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="683.0" y="80.2" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="683.0" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="683.0" y="108.6" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="683.0" y="122.8" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="683.0" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="683.0" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="697.2" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="697.2" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="697.2" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="697.2" y="108.6" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="697.2" y="122.8" width="11" height="11" fill="#39d353" class="cell" />
-  <rect x="697.2" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="697.2" y="151.2" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="711.4" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="697.2" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="697.2" y="122.8" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="697.2" y="137.0" width="11" height="11" fill="#39d353" class="cell" />
+  <rect x="697.2" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="711.4" y="66.0" width="11" height="11" fill="#0e4429" class="cell" />
   <rect x="711.4" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="711.4" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="711.4" y="108.6" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="711.4" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="711.4" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="711.4" y="122.8" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="711.4" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="711.4" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="725.6" y="66.0" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="725.6" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="725.6" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="725.6" y="80.2" width="11" height="11" fill="#006d32" class="cell" />
   <rect x="725.6" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="725.6" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="725.6" y="122.8" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="725.6" y="137.0" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="725.6" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="725.6" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="725.6" y="137.0" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="725.6" y="151.2" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="739.8" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="739.8" y="80.2" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="739.8" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="739.8" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="739.8" y="94.4" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="739.8" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="739.8" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="739.8" y="137.0" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="739.8" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="754.0" y="66.0" width="11" height="11" fill="#39d353" class="cell" />
-  <rect x="754.0" y="80.2" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="754.0" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="739.8" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="739.8" y="151.2" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="754.0" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="754.0" y="80.2" width="11" height="11" fill="#39d353" class="cell" />
+  <rect x="754.0" y="94.4" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="754.0" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="754.0" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="754.0" y="137.0" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="754.0" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="768.2" y="66.0" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="768.2" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="754.0" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="754.0" y="151.2" width="11" height="11" fill="#26a641" class="cell" />
+  <rect x="768.2" y="66.0" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="768.2" y="80.2" width="11" height="11" fill="#006d32" class="cell" />
   <rect x="768.2" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="768.2" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="768.2" y="122.8" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="768.2" y="137.0" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="768.2" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="768.2" y="137.0" width="11" height="11" fill="#006d32" class="cell" />
   <rect x="768.2" y="151.2" width="11" height="11" fill="#0e4429" class="cell" />
-  <rect x="782.4" y="66.0" width="11" height="11" fill="#26a641" class="cell" />
-  <rect x="782.4" y="80.2" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="782.4" y="66.0" width="11" height="11" fill="#0e4429" class="cell" />
+  <rect x="782.4" y="80.2" width="11" height="11" fill="#26a641" class="cell" />
   <rect x="782.4" y="94.4" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="782.4" y="108.6" width="11" height="11" fill="#161b22" class="cell" />
-  <rect x="782.4" y="122.8" width="11" height="11" fill="#006d32" class="cell" />
-  <rect x="782.4" y="137.0" width="11" height="11" fill="#006d32" class="cell" />
+  <rect x="782.4" y="122.8" width="11" height="11" fill="#161b22" class="cell" />
+  <rect x="782.4" y="137.0" width="11" height="11" fill="#161b22" class="cell" />
   <rect x="782.4" y="151.2" width="11" height="11" fill="#161b22" class="cell" />
 
   <!-- Footer Links & Legend -->
