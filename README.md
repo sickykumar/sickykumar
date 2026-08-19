@@ -5,7 +5,7 @@
     <img src="./assets/hero-banner.webp" alt="Sicky Kumar — AI-Powered Full-Stack Developer" width="100%" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <!-- RESPONSIVE ANIMATED TYPING SUBTITLE -->
   <a href="https://www.sickykumar.in">
@@ -28,10 +28,10 @@
     <a href="https://github.com/sickykumar?tab=repositories" target="_blank">
       <img src="https://img.shields.io/badge/🚀_All_Repos-38_Projects-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Repos" />
     </a>
-    <a href="https://t.me/sickykumar" target="_blank">
+    <a href="https://t.me/sicky9304s" target="_blank">
       <img src="https://img.shields.io/badge/✈️_Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://www.instagram.com/sickykumar/" target="_blank">
+    <a href="https://www.instagram.com/sicky9304s/" target="_blank">
       <img src="https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
@@ -132,6 +132,7 @@
 <div align="center">
 
 ### 🎨 Frontend Engineering
+
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -145,6 +146,7 @@
 </p>
 
 ### ⚙️ Backend & APIs
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -155,6 +157,7 @@
 </p>
 
 ### 💾 Database & ORM
+
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
@@ -163,6 +166,7 @@
 </p>
 
 ### 🤖 AI & Intelligent Systems
+
 <p>
   <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
@@ -171,6 +175,7 @@
 </p>
 
 ### 📱 Mobile & Desktop
+
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
@@ -179,6 +184,7 @@
 </p>
 
 ### ☁️ Cloud & DevOps Infrastructure
+
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -201,6 +207,7 @@
 <br/>
 
 > **Multi-Tier Execution Flow:**
+>
 > 1. **Client Tier**: React.js / Next.js (Web) · React Native / Expo (Mobile) · Electron (Desktop)
 > 2. **Intelligence Tier**: Autonomous AI Agents · OpenAI & Google Gemini LLM Pipelines
 > 3. **API & Service Tier**: Node.js & Express REST APIs · Microservices · JWT Auth & Rate Limiting
@@ -284,22 +291,22 @@
 <summary><b>🌐 Web Applications (14 Repositories)</b></summary>
 <br/>
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 🎓 **[e-learning-platform](https://github.com/sickykumar/e-learning-platform)** | Full-stack MERN e-learning SaaS platform with auth, payments & admin | `MERN Stack` `Tailwind` | [**Open Repo →**](https://github.com/sickykumar/e-learning-platform) |
-| 🌾 **[agriconnect](https://github.com/sickykumar/agriconnect)** | Agriculture smart marketplace and ecosystem hub | `React` `Node.js` `REST` | [**Open Repo →**](https://github.com/sickykumar/agriconnect) |
-| 🎬 **[online-ott-platform](https://github.com/sickykumar/online-ott-platform)** | Video streaming OTT platform with media playback | `React` `Cloudinary` `Node` | [**Open Repo →**](https://github.com/sickykumar/online-ott-platform) |
-| 📰 **[News-Web-Application](https://github.com/sickykumar/News-Web-Application)** | Live news aggregation web application with live feeds | `React` `News API` | [**Open Repo →**](https://github.com/sickykumar/News-Web-Application) |
-| 💼 **[main-portfolio](https://github.com/sickykumar/main-portfolio)** | Developer portfolio website with interactive UI | `React` `Vite` `Tailwind` | [**Open Repo →**](https://github.com/sickykumar/main-portfolio) |
-| 🎨 **[react-worldArt-project](https://github.com/sickykumar/react-worldArt-project)** | Dynamic art showcase and creative gallery | `React` `CSS Modules` | [**Open Repo →**](https://github.com/sickykumar/react-worldArt-project) |
-| ✅ **[react-Todo-app](https://github.com/sickykumar/react-Todo-app)** | Task management app with persistent local storage | `React` `LocalStorage` | [**Open Repo →**](https://github.com/sickykumar/react-Todo-app) |
-| 🌓 **[dark-light-mode-react](https://github.com/sickykumar/dark-light-mode-react)** | Design token & theme toggling system in React | `React` `Theme Context` | [**Open Repo →**](https://github.com/sickykumar/dark-light-mode-react) |
-| ⚡ **[pokemon-search-app](https://github.com/sickykumar/pokemon-search-app)** | Fast Pokémon database explorer with live search | `JavaScript` `PokéAPI` | [**Open Repo →**](https://github.com/sickykumar/pokemon-search-app) |
-| 🧮 **[Modern-Calculator](https://github.com/sickykumar/Modern-Calculator)** | Glassmorphic modern calculator application | `JavaScript` `CSS3` | [**Open Repo →**](https://github.com/sickykumar/Modern-Calculator) |
-| 📚 **[eduhub_web](https://github.com/sickykumar/eduhub_web)** | Educational resource library and student platform | `HTML5` `CSS3` `JS` | [**Open Repo →**](https://github.com/sickykumar/eduhub_web) |
-| 🎨 **[gradient-color-picker](https://github.com/sickykumar/gradient-color-picker)** | CSS gradient generator & designer color utility | `JavaScript` `CSS Canvas` | [**Open Repo →**](https://github.com/sickykumar/gradient-color-picker) |
-| 🔗 **[url_shortner](https://github.com/sickykumar/url_shortner)** | URL shortening service with analytics | `Node.js` `Express` `Mongo` | [**Open Repo →**](https://github.com/sickykumar/url_shortner) |
-| 💼 **[Portfolio_With_AI](https://github.com/sickykumar/Portfolio_With_AI)** | AI-enhanced interactive portfolio prototype | `React` `AI API` | [**Open Repo →**](https://github.com/sickykumar/Portfolio_With_AI) |
+| Project                                                                               | Description                                                          | Stack                       | Link                                                                    |
+| :------------------------------------------------------------------------------------ | :------------------------------------------------------------------- | :-------------------------- | :---------------------------------------------------------------------- |
+| 🎓 **[e-learning-platform](https://github.com/sickykumar/e-learning-platform)**       | Full-stack MERN e-learning SaaS platform with auth, payments & admin | `MERN Stack` `Tailwind`     | [**Open Repo →**](https://github.com/sickykumar/e-learning-platform)    |
+| 🌾 **[agriconnect](https://github.com/sickykumar/agriconnect)**                       | Agriculture smart marketplace and ecosystem hub                      | `React` `Node.js` `REST`    | [**Open Repo →**](https://github.com/sickykumar/agriconnect)            |
+| 🎬 **[online-ott-platform](https://github.com/sickykumar/online-ott-platform)**       | Video streaming OTT platform with media playback                     | `React` `Cloudinary` `Node` | [**Open Repo →**](https://github.com/sickykumar/online-ott-platform)    |
+| 📰 **[News-Web-Application](https://github.com/sickykumar/News-Web-Application)**     | Live news aggregation web application with live feeds                | `React` `News API`          | [**Open Repo →**](https://github.com/sickykumar/News-Web-Application)   |
+| 💼 **[main-portfolio](https://github.com/sickykumar/main-portfolio)**                 | Developer portfolio website with interactive UI                      | `React` `Vite` `Tailwind`   | [**Open Repo →**](https://github.com/sickykumar/main-portfolio)         |
+| 🎨 **[react-worldArt-project](https://github.com/sickykumar/react-worldArt-project)** | Dynamic art showcase and creative gallery                            | `React` `CSS Modules`       | [**Open Repo →**](https://github.com/sickykumar/react-worldArt-project) |
+| ✅ **[react-Todo-app](https://github.com/sickykumar/react-Todo-app)**                 | Task management app with persistent local storage                    | `React` `LocalStorage`      | [**Open Repo →**](https://github.com/sickykumar/react-Todo-app)         |
+| 🌓 **[dark-light-mode-react](https://github.com/sickykumar/dark-light-mode-react)**   | Design token & theme toggling system in React                        | `React` `Theme Context`     | [**Open Repo →**](https://github.com/sickykumar/dark-light-mode-react)  |
+| ⚡ **[pokemon-search-app](https://github.com/sickykumar/pokemon-search-app)**         | Fast Pokémon database explorer with live search                      | `JavaScript` `PokéAPI`      | [**Open Repo →**](https://github.com/sickykumar/pokemon-search-app)     |
+| 🧮 **[Modern-Calculator](https://github.com/sickykumar/Modern-Calculator)**           | Glassmorphic modern calculator application                           | `JavaScript` `CSS3`         | [**Open Repo →**](https://github.com/sickykumar/Modern-Calculator)      |
+| 📚 **[eduhub_web](https://github.com/sickykumar/eduhub_web)**                         | Educational resource library and student platform                    | `HTML5` `CSS3` `JS`         | [**Open Repo →**](https://github.com/sickykumar/eduhub_web)             |
+| 🎨 **[gradient-color-picker](https://github.com/sickykumar/gradient-color-picker)**   | CSS gradient generator & designer color utility                      | `JavaScript` `CSS Canvas`   | [**Open Repo →**](https://github.com/sickykumar/gradient-color-picker)  |
+| 🔗 **[url_shortner](https://github.com/sickykumar/url_shortner)**                     | URL shortening service with analytics                                | `Node.js` `Express` `Mongo` | [**Open Repo →**](https://github.com/sickykumar/url_shortner)           |
+| 💼 **[Portfolio_With_AI](https://github.com/sickykumar/Portfolio_With_AI)**           | AI-enhanced interactive portfolio prototype                          | `React` `AI API`            | [**Open Repo →**](https://github.com/sickykumar/Portfolio_With_AI)      |
 
 </details>
 
@@ -307,13 +314,13 @@
 <summary><b>🤖 AI Projects (5 Repositories)</b></summary>
 <br/>
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 🍕 **[ai-powered-food-app](https://github.com/sickykumar/ai-powered-food-app)** | AI-assisted recipe engine and intelligent food discovery | `React` `AI API` `Node.js` | [**Open Repo →**](https://github.com/sickykumar/ai-powered-food-app) |
-| 💬 **[Ai-Chat-Bot-Pro](https://github.com/sickykumar/Ai-Chat-Bot-Pro)** | Advanced AI conversational assistant with context preservation | `Python` `AI / LLM` `NLP` | [**Open Repo →**](https://github.com/sickykumar/Ai-Chat-Bot-Pro) |
-| ♊ **[ChatBot-Google-Gemini](https://github.com/sickykumar/ChatBot-Google-Gemini)** | Conversational application powered by Google Gemini API | `Google Gemini API` `Python` | [**Open Repo →**](https://github.com/sickykumar/ChatBot-Google-Gemini) |
-| 🤖 **[chatbot](https://github.com/sickykumar/chatbot)** | Core AI chatbot application and conversational engine | `JavaScript` `AI Logic` | [**Open Repo →**](https://github.com/sickykumar/chatbot) |
-| 🧠 **[Portfolio_With_AI](https://github.com/sickykumar/Portfolio_With_AI)** | AI-powered personal portfolio interface | `React` `AI API` `Node` | [**Open Repo →**](https://github.com/sickykumar/Portfolio_With_AI) |
+| Project                                                                             | Description                                                    | Stack                        | Link                                                                   |
+| :---------------------------------------------------------------------------------- | :------------------------------------------------------------- | :--------------------------- | :--------------------------------------------------------------------- |
+| 🍕 **[ai-powered-food-app](https://github.com/sickykumar/ai-powered-food-app)**     | AI-assisted recipe engine and intelligent food discovery       | `React` `AI API` `Node.js`   | [**Open Repo →**](https://github.com/sickykumar/ai-powered-food-app)   |
+| 💬 **[Ai-Chat-Bot-Pro](https://github.com/sickykumar/Ai-Chat-Bot-Pro)**             | Advanced AI conversational assistant with context preservation | `Python` `AI / LLM` `NLP`    | [**Open Repo →**](https://github.com/sickykumar/Ai-Chat-Bot-Pro)       |
+| ♊ **[ChatBot-Google-Gemini](https://github.com/sickykumar/ChatBot-Google-Gemini)** | Conversational application powered by Google Gemini API        | `Google Gemini API` `Python` | [**Open Repo →**](https://github.com/sickykumar/ChatBot-Google-Gemini) |
+| 🤖 **[chatbot](https://github.com/sickykumar/chatbot)**                             | Core AI chatbot application and conversational engine          | `JavaScript` `AI Logic`      | [**Open Repo →**](https://github.com/sickykumar/chatbot)               |
+| 🧠 **[Portfolio_With_AI](https://github.com/sickykumar/Portfolio_With_AI)**         | AI-powered personal portfolio interface                        | `React` `AI API` `Node`      | [**Open Repo →**](https://github.com/sickykumar/Portfolio_With_AI)     |
 
 </details>
 
@@ -321,10 +328,10 @@
 <summary><b>🖥️ Desktop Applications (2 Repositories)</b></summary>
 <br/>
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
+| Project                                                                           | Description                                                   | Stack                            | Link                                                                  |
+| :-------------------------------------------------------------------------------- | :------------------------------------------------------------ | :------------------------------- | :-------------------------------------------------------------------- |
 | 🎵 **[windows-music-player](https://github.com/sickykumar/windows-music-player)** | Desktop audio player with playlists and responsive visualizer | `Electron` `React` `Desktop API` | [**Open Repo →**](https://github.com/sickykumar/windows-music-player) |
-| 🎧 **[offline-music-player](https://github.com/sickykumar/offline-music-player)** | Standalone offline music jukebox with local audio indexing | `Electron / JS` `Audio Engine` | [**Open Repo →**](https://github.com/sickykumar/offline-music-player) |
+| 🎧 **[offline-music-player](https://github.com/sickykumar/offline-music-player)** | Standalone offline music jukebox with local audio indexing    | `Electron / JS` `Audio Engine`   | [**Open Repo →**](https://github.com/sickykumar/offline-music-player) |
 
 </details>
 
@@ -332,13 +339,13 @@
 <summary><b>📊 Data Analytics & Dashboards (5 Repositories)</b></summary>
 <br/>
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 📈 **[ALEX-ECOMMERCE-SALES-DASHBOARD](https://github.com/sickykumar/ALEX-ECOMMERCE-SALES-DASHBOARD)** | Multi-channel e-commerce sales and revenue KPI dashboard | `PowerBI / Excel` `Analytics` | [**Open Repo →**](https://github.com/sickykumar/ALEX-ECOMMERCE-SALES-DASHBOARD) |
-| 🛒 **[SuperStore_Sales_Report](https://github.com/sickykumar/SuperStore_Sales_Report)** | Retail store sales analytics and profit distribution report | `Business Intelligence` | [**Open Repo →**](https://github.com/sickykumar/SuperStore_Sales_Report) |
-| 🏢 **[Sales-Dashboard-Of-ABC-Company](https://github.com/sickykumar/Sales-Dashboard-Of-ABC-Company)** | Enterprise corporate sales performance and forecasting metrics | `Data Analytics` `Dashboards` | [**Open Repo →**](https://github.com/sickykumar/Sales-Dashboard-Of-ABC-Company) |
-| 👥 **[HR-ANALYTICS-PROJECT](https://github.com/sickykumar/HR-ANALYTICS-PROJECT)** | Workforce attrition, retention, and HR performance insights | `Analytics` `KPI Reporting` | [**Open Repo →**](https://github.com/sickykumar/HR-ANALYTICS-PROJECT) |
-| 📺 **[Amazon-Prime-Movies-and-TV-Shows](https://github.com/sickykumar/Amazon-Prime-Movies-and-TV-Shows)** | Streaming catalog exploratory data analysis and visual trends | `Data Analysis` `Python/Excel` | [**Open Repo →**](https://github.com/sickykumar/Amazon-Prime-Movies-and-TV-Shows) |
+| Project                                                                                                   | Description                                                    | Stack                          | Link                                                                              |
+| :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------- | :----------------------------- | :-------------------------------------------------------------------------------- |
+| 📈 **[ALEX-ECOMMERCE-SALES-DASHBOARD](https://github.com/sickykumar/ALEX-ECOMMERCE-SALES-DASHBOARD)**     | Multi-channel e-commerce sales and revenue KPI dashboard       | `PowerBI / Excel` `Analytics`  | [**Open Repo →**](https://github.com/sickykumar/ALEX-ECOMMERCE-SALES-DASHBOARD)   |
+| 🛒 **[SuperStore_Sales_Report](https://github.com/sickykumar/SuperStore_Sales_Report)**                   | Retail store sales analytics and profit distribution report    | `Business Intelligence`        | [**Open Repo →**](https://github.com/sickykumar/SuperStore_Sales_Report)          |
+| 🏢 **[Sales-Dashboard-Of-ABC-Company](https://github.com/sickykumar/Sales-Dashboard-Of-ABC-Company)**     | Enterprise corporate sales performance and forecasting metrics | `Data Analytics` `Dashboards`  | [**Open Repo →**](https://github.com/sickykumar/Sales-Dashboard-Of-ABC-Company)   |
+| 👥 **[HR-ANALYTICS-PROJECT](https://github.com/sickykumar/HR-ANALYTICS-PROJECT)**                         | Workforce attrition, retention, and HR performance insights    | `Analytics` `KPI Reporting`    | [**Open Repo →**](https://github.com/sickykumar/HR-ANALYTICS-PROJECT)             |
+| 📺 **[Amazon-Prime-Movies-and-TV-Shows](https://github.com/sickykumar/Amazon-Prime-Movies-and-TV-Shows)** | Streaming catalog exploratory data analysis and visual trends  | `Data Analysis` `Python/Excel` | [**Open Repo →**](https://github.com/sickykumar/Amazon-Prime-Movies-and-TV-Shows) |
 
 </details>
 
@@ -346,11 +353,11 @@
 <summary><b>🛠️ Backend & Developer Tools (3 Repositories)</b></summary>
 <br/>
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 📦 **[NodeJs](https://github.com/sickykumar/NodeJs)** | Collection of modular Node.js backend projects & API utilities | `Node.js` `Express` `APIs` | [**Open Repo →**](https://github.com/sickykumar/NodeJs) |
-| ⌨️ **[nodejs_cli_todo_app](https://github.com/sickykumar/nodejs_cli_todo_app)** | Interactive terminal CLI productivity tool for task management | `Node.js CLI` `Commander` | [**Open Repo →**](https://github.com/sickykumar/nodejs_cli_todo_app) |
-| 🏫 **[student-management-system](https://github.com/sickykumar/student-management-system)** | Academic records and student management system | `Full-Stack` `Database` | [**Open Repo →**](https://github.com/sickykumar/student-management-system) |
+| Project                                                                                     | Description                                                    | Stack                      | Link                                                                       |
+| :------------------------------------------------------------------------------------------ | :------------------------------------------------------------- | :------------------------- | :------------------------------------------------------------------------- |
+| 📦 **[NodeJs](https://github.com/sickykumar/NodeJs)**                                       | Collection of modular Node.js backend projects & API utilities | `Node.js` `Express` `APIs` | [**Open Repo →**](https://github.com/sickykumar/NodeJs)                    |
+| ⌨️ **[nodejs_cli_todo_app](https://github.com/sickykumar/nodejs_cli_todo_app)**             | Interactive terminal CLI productivity tool for task management | `Node.js CLI` `Commander`  | [**Open Repo →**](https://github.com/sickykumar/nodejs_cli_todo_app)       |
+| 🏫 **[student-management-system](https://github.com/sickykumar/student-management-system)** | Academic records and student management system                 | `Full-Stack` `Database`    | [**Open Repo →**](https://github.com/sickykumar/student-management-system) |
 
 </details>
 
@@ -358,18 +365,18 @@
 <summary><b>🧪 Learning, Systems & Experiments (10 Repositories)</b></summary>
 <br/>
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 🐍 **[Python_Tutorial](https://github.com/sickykumar/Python_Tutorial)** | Python programming tutorials from fundamentals to OOP | `Python 3` `Algorithms` | [**Open Repo →**](https://github.com/sickykumar/Python_Tutorial) |
-| 🟢 **[NodeJs_Tutorial](https://github.com/sickykumar/NodeJs_Tutorial)** | Backend architecture guides and async JavaScript patterns | `Node.js` `Event Loop` | [**Open Repo →**](https://github.com/sickykumar/NodeJs_Tutorial) |
-| ⚡ **[DSA_With_C](https://github.com/sickykumar/DSA_With_C)** | Data structures & algorithms implemented in low-level C | `C Language` `Pointers` `DSA` | [**Open Repo →**](https://github.com/sickykumar/DSA_With_C) |
-| 🛠️ **[python_project](https://github.com/sickykumar/python_project)** | Python utility scripts for file conversions & automation | `Python Utilities` | [**Open Repo →**](https://github.com/sickykumar/python_project) |
-| 🍃 **[MongoDB_With_Python](https://github.com/sickykumar/MongoDB_With_Python)** | PyMongo integration and database aggregation pipelines | `Python` `MongoDB` `PyMongo` | [**Open Repo →**](https://github.com/sickykumar/MongoDB_With_Python) |
-| 📹 **[YouTube-Video-Manager-with-MongoDB-in-Python](https://github.com/sickykumar/YouTube-Video-Manager-with-MongoDB-in-Python)** | Video inventory management with Python & MongoDB CRUD | `Python` `MongoDB` `Backend` | [**Open Repo →**](https://github.com/sickykumar/YouTube-Video-Manager-with-MongoDB-in-Python) |
-| 📇 **[Contact-Management-System-with-Python](https://github.com/sickykumar/Contact-Management-System-with-Python)** | Relational contact registry with persistent file storage | `Python` `File I/O` | [**Open Repo →**](https://github.com/sickykumar/Contact-Management-System-with-Python) |
-| ☁️ **[aws-demo-app](https://github.com/sickykumar/aws-demo-app)** | Cloud deployment architecture and AWS cloud service tests | `AWS` `Cloud Hosting` | [**Open Repo →**](https://github.com/sickykumar/aws-demo-app) |
-| 🏢 **[ardent-internship](https://github.com/sickykumar/ardent-internship)** | Industry internship project and software deliverables | `Full-Stack Development` | [**Open Repo →**](https://github.com/sickykumar/ardent-internship) |
-| 🌐 **[AWS-AS](https://github.com/sickykumar/AWS-AS)** | AWS infrastructure and cloud scalability project | `AWS` `Cloud Architecture` | [**Open Repo →**](https://github.com/sickykumar/AWS-AS) |
+| Project                                                                                                                           | Description                                               | Stack                         | Link                                                                                          |
+| :-------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------- | :---------------------------- | :-------------------------------------------------------------------------------------------- |
+| 🐍 **[Python_Tutorial](https://github.com/sickykumar/Python_Tutorial)**                                                           | Python programming tutorials from fundamentals to OOP     | `Python 3` `Algorithms`       | [**Open Repo →**](https://github.com/sickykumar/Python_Tutorial)                              |
+| 🟢 **[NodeJs_Tutorial](https://github.com/sickykumar/NodeJs_Tutorial)**                                                           | Backend architecture guides and async JavaScript patterns | `Node.js` `Event Loop`        | [**Open Repo →**](https://github.com/sickykumar/NodeJs_Tutorial)                              |
+| ⚡ **[DSA_With_C](https://github.com/sickykumar/DSA_With_C)**                                                                     | Data structures & algorithms implemented in low-level C   | `C Language` `Pointers` `DSA` | [**Open Repo →**](https://github.com/sickykumar/DSA_With_C)                                   |
+| 🛠️ **[python_project](https://github.com/sickykumar/python_project)**                                                             | Python utility scripts for file conversions & automation  | `Python Utilities`            | [**Open Repo →**](https://github.com/sickykumar/python_project)                               |
+| 🍃 **[MongoDB_With_Python](https://github.com/sickykumar/MongoDB_With_Python)**                                                   | PyMongo integration and database aggregation pipelines    | `Python` `MongoDB` `PyMongo`  | [**Open Repo →**](https://github.com/sickykumar/MongoDB_With_Python)                          |
+| 📹 **[YouTube-Video-Manager-with-MongoDB-in-Python](https://github.com/sickykumar/YouTube-Video-Manager-with-MongoDB-in-Python)** | Video inventory management with Python & MongoDB CRUD     | `Python` `MongoDB` `Backend`  | [**Open Repo →**](https://github.com/sickykumar/YouTube-Video-Manager-with-MongoDB-in-Python) |
+| 📇 **[Contact-Management-System-with-Python](https://github.com/sickykumar/Contact-Management-System-with-Python)**               | Relational contact registry with persistent file storage  | `Python` `File I/O`           | [**Open Repo →**](https://github.com/sickykumar/Contact-Management-System-with-Python)        |
+| ☁️ **[aws-demo-app](https://github.com/sickykumar/aws-demo-app)**                                                                 | Cloud deployment architecture and AWS cloud service tests | `AWS` `Cloud Hosting`         | [**Open Repo →**](https://github.com/sickykumar/aws-demo-app)                                 |
+| 🏢 **[ardent-internship](https://github.com/sickykumar/ardent-internship)**                                                       | Industry internship project and software deliverables     | `Full-Stack Development`      | [**Open Repo →**](https://github.com/sickykumar/ardent-internship)                            |
+| 🌐 **[AWS-AS](https://github.com/sickykumar/AWS-AS)**                                                                             | AWS infrastructure and cloud scalability project          | `AWS` `Cloud Architecture`    | [**Open Repo →**](https://github.com/sickykumar/AWS-AS)                                       |
 
 </details>
 
@@ -525,9 +532,9 @@
 
 <div align="center">
 
-  # ✨ Have a Vision or Project?
+# ✨ Have a Vision or Project?
 
-  ### **Let's build something remarkable together.**
+### **Let's build something remarkable together.**
 
   <p>
     Whether you are looking to hire a full-stack engineer, build an AI SaaS product, or collaborate on innovative projects:
@@ -540,10 +547,10 @@
     <a href="https://www.linkedin.com/in/sickykumar/" target="_blank">
       <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://t.me/sickykumar" target="_blank">
+    <a href="https://t.me/sicky9304s" target="_blank">
       <img src="https://img.shields.io/badge/✈️_Telegram-Direct_Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://www.instagram.com/sickykumar/" target="_blank">
+    <a href="https://www.instagram.com/sicky9304s/" target="_blank">
       <img src="https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
