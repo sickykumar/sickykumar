@@ -28,10 +28,10 @@
     <a href="https://github.com/sickykumar?tab=repositories" target="_blank">
       <img src="https://img.shields.io/badge/🚀_All_Repos-38_Projects-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Repos" />
     </a>
-    <a href="https://t.me/sicky9304s" target="_blank">
+    <a href="https://t.me/sickykumar" target="_blank">
       <img src="https://img.shields.io/badge/✈️_Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://www.instagram.com/sicky9304s/" target="_blank">
+    <a href="https://www.instagram.com/sickykumar/" target="_blank">
       <img src="https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
@@ -540,10 +540,10 @@
     <a href="https://www.linkedin.com/in/sickykumar/" target="_blank">
       <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://t.me/sicky9304s" target="_blank">
+    <a href="https://t.me/sickykumar" target="_blank">
       <img src="https://img.shields.io/badge/✈️_Telegram-Direct_Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://www.instagram.com/sicky9304s/" target="_blank">
+    <a href="https://www.instagram.com/sickykumar/" target="_blank">
       <img src="https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
